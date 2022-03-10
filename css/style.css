@@ -1,0 +1,11 @@
+body {
+  background-color: lavenderblush;
+}
+body header {
+  background-color: red;
+}
+body header nav ul li {
+  text-decoration: none;
+}
+
+/*# sourceMappingURL=style.css.map */
