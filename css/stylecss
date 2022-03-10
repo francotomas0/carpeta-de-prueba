@@ -1,0 +1,10 @@
+header {
+  background-color: red;
+}
+@media screen and (max-width: 720px) {
+  header {
+    background-color: lightblue;
+  }
+}
+
+/*# sourceMappingURL=stylecss.map */
